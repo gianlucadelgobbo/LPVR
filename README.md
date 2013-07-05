@@ -1,4 +1,4 @@
-LVPR
+LPVR
 ====
 
 LivePerformerVideoRouter -- LPM project - FPGA Video Router —
